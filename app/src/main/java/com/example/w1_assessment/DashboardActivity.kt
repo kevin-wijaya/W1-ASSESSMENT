@@ -13,5 +13,7 @@ class DashboardActivity : AppCompatActivity() {
         for (i in 1..100) {
             Log.d("list card", i.toString())
         }
+
+        Toast.makeText(this, "test", Toast.LENGTH_SHORT).show()
     }
 }
