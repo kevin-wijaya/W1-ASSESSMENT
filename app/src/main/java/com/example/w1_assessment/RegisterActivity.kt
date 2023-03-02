@@ -12,4 +12,7 @@ class RegisterActivity : AppCompatActivity() {
     // Ini fitur register
 
     // tambahin fitur captcha
+
+    val a = 10
+    val b = 20
 }
