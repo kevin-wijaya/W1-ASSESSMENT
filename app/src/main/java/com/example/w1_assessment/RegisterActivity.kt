@@ -6,9 +6,13 @@ import android.os.Bundle
 class RegisterActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout .activity_register)
+        setContentView(R.layout.activity_register)
     }
 
     // Ini fitur register
 
+    // tambahin fitur captcha
+
+    val a = 10
+    val b = 20
 }
